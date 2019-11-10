@@ -1,0 +1,4 @@
+Pillow>=6.2.1
+simple-settings>=0.19.1
+tqdm>=4.38.0
+pyinstaller>=3.5
